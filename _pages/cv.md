@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemistry, New York University, 2025 (expected)
-* B.Sc. in Chemistry, Lanzhou University, 2015 (with Honor from Chinese Top-norch Undergraduate Training Program in Fundamental Sciences)
-* 
+* Ph.D. in Chemistry, New York University, New York, NY, United States. 2020 - 2025 (expected)
+* B.Sc. in Chemistry, Lanzhou University, Lanzhou, Gansu, China. 2015 - 2019 (with Honor from Chinese Top-norch Undergraduate Training Program in Fundamental Sciences)
+  * International Exchange Program, University of Santa Barbara, CA, 2018  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - now: Graduate Research Fellow
+  * New York University Shanghai
+  * Quantum effects in charge transfer and spectroscopy 
+  * Supervisor: Professor Xiang Sun
+ 
+* Fall 2020: SHU-125 FOC I Grader
+  * New York University Shanghai
+  * Grade homework and quizzes 
+  * Professor: Xiang Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2020: Research Assistant
+  * Lanzhou University
+  * Rotational-resolved spectroscopy in aromatic compounds with aerospace interests 
+  * Supervisor: Professor Ziqiu Chen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - 2017: Undergraduate Research Assistant
+  * Lanzhou University
+  * Assistance of polymer synthesis with drug delivery interests
+  * Supervisor: Professor Hua Wei
   
 Skills
 ======
